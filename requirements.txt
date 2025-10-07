@@ -1,0 +1,8 @@
+spotipy
+json
+pandas
+pyarrow
+sqlalchemy
+psycopg2-binary
+streamlit
+python-dotenv
